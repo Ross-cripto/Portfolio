@@ -3,6 +3,15 @@
 @tailwind utilities;
 
 /* Add Your Custom CSS Here */
+/* CSS para eliminar scroll horizontal */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
 
 .prose img {
   border-radius: 30px;
@@ -35,6 +44,25 @@ html.dark #darkToggle:hover .horizon {
 .horizon .rising {
   animation: 1s ease 0s 1 rising;
 }
+
+/* Scroll personalizado */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #484847;
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ffffff;
+}
+
 
 @keyframes setting {
   0% {
