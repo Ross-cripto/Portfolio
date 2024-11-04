@@ -1,9 +1,15 @@
 [
 	{
+		"name": "Google Clone",
+		"description": "A Google Clone made with React and Firebase.",
+		"image": "/assets/images/projects/Google-Clone.png",
+		"url": "https://ross-search.web.app/"
+	},
+	{
 		"name": "Heroes-app",
 		"description": "Minimalist Heroes App.",
 		"image": "/assets/images/projects/heroes-app.png",
 		"url": "https://heroes-app-dz86.vercel.app/login"
 	}
-	
+
 ]
