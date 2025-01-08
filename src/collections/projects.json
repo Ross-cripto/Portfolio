@@ -8,7 +8,7 @@
   },
   {
     "name": "Pomodoro App",
-    "description": "Minimalist Heroes App.",
+    "description": "Minimalist Pomodoro App.",
     "image": "/assets/images/projects/pomodoro.png",
     "technologies": ["Typescript", "Next", "Tailwind"],
     "url": "https://ross-pro-pomodoro.vercel.app/"
