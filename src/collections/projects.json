@@ -1,15 +1,17 @@
 [
-	{
-		"name": "Google Clone",
-		"description": "A Google Clone made with React and Firebase.",
-		"image": "/assets/images/projects/Google-Clone.png",
-		"url": "https://ross-search.web.app/"
-	},
-	{
-		"name": "Heroes-app",
-		"description": "Minimalist Heroes App.",
-		"image": "/assets/images/projects/heroes-app.png",
-		"url": "https://ross-heroes-app.vercel.app/login"
-	}
-
+  {
+    "name": "Google Clone",
+    "description": "A Google Clone made with React and Firebase.",
+    "image": "/assets/images/projects/Google-Clone.png",
+    "technologies": [ "Javascript", "React", "Firebase"],
+    "url": "https://ross-search.web.app/"
+  },
+  {
+    "name": "Pomodoro App",
+    "description": "Minimalist Heroes App.",
+    "image": "/assets/images/projects/pomodoro.png",
+    "technologies": ["Typescript", "Next", "Tailwind"],
+    "url": "https://ross-pro-pomodoro.vercel.app/"
+  }
 ]
+

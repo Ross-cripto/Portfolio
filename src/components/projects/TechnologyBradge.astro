@@ -1,0 +1,45 @@
+---
+interface Props {
+  name: string;
+}
+
+const { name } = Astro.props;
+
+const getIconPath = (tech: string) => {
+  switch (tech.toLowerCase()) {
+    case 'react':
+      return '/icons/react.svg';
+    case 'vue':
+      return '/icons/vue.svg';
+    case 'angular':
+      return '/icons/angular.svg';
+    case 'javascript':
+      return '/icons/javascript.svg';
+    case 'typescript':
+      return '/icons/typescript.svg';
+    case 'html':
+      return '/icons/html.svg';
+    case 'css':
+      return '/icons/css.svg';
+    case 'tailwind':
+      return '/icons/tailwind.svg';
+    case 'node':
+      return '/icons/node.svg';
+    case 'next':
+      return '/icons/next.svg';
+    case 'python':
+      return '/icons/python.svg';
+    case 'firebase':
+      return '/icons/firebase.svg';
+    default:
+      return '/icons/default.svg';
+  }
+};
+
+const iconPath = getIconPath(name);
+---
+
+<span class="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200 transition-all duration-200 hover:bg-gray-200 dark:hover:bg-gray-600 mr-2 mb-2">
+  <img src={iconPath} alt={`${name} icon`} class="w-4 h-4 mr-2" />
+  {name}
+</span>
