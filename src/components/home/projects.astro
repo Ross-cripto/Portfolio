@@ -1,21 +1,21 @@
 ---
+// projects.astro
 import projects from "../../collections/projects.json";
-import Button from "../ui/button.astro";
 import Project from "../project.astro";
+
+const { limit } = Astro.props; // Obtén la prop limit
+
 ---
 
-
-<section class="max-w-6xl mx-auto sm:px-6 lg:px-8 py-8">
+<section id="projects" class="max-w-6xl mx-auto sm:px-6 lg:px-8 py-8">
   <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-    {projects.map((project) => (
+    {projects.slice(0, limit).map((project) => (
       <Project
         name={project.name}
         description={project.description}
         image={project.image}
         url={project.url}
         technologies={project.technologies}
-
-
       />
     ))}
   </div>

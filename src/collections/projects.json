@@ -19,6 +19,13 @@
       "image": "/assets/images/projects/nest.png",
       "technologies": ["NestJs"],
       "url": "https://github.com/Nest-Microservices-Ross"
+  },
+  {
+    "name": "Python Solution",
+    "description": "Response to a challenge on a Python Interview.",
+    "image": "/assets/images/projects/Python.png",
+    "technologies": ["Python"],
+    "url": "https://github.com/Ross-cripto/Solution"
   }
 
 ]
