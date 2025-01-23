@@ -12,7 +12,15 @@
     "image": "/assets/images/projects/e-commerce.png",
     "technologies": ["Python", "django", "Tailwind"],
     "url": "https://github.com/Ross-cripto/backend-comerce"
+  }, 
+  {
+      "name": "Nest Microservices",
+      "description": "A little demostration of an integration on Nest using Microservices.",
+      "image": "/assets/images/projects/nest.png",
+      "technologies": ["NestJs"],
+      "url": "https://github.com/Nest-Microservices-Ross"
   }
+
 ]
 
 
