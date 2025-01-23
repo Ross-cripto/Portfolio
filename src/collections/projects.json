@@ -10,7 +10,7 @@
     "name": "Backend-Ecommerce",
     "description": "A little demostration of a backend ecommerce.",
     "image": "/assets/images/projects/e-commerce.png",
-    "technologies": ["Python", "django", "Tailwind"],
+    "technologies": ["Python", "django"],
     "url": "https://github.com/Ross-cripto/backend-comerce"
   }, 
   {
