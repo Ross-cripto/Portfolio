@@ -1,17 +1,18 @@
 [
   {
-    "name": "Google Clone",
-    "description": "A Google Clone made with React and Firebase.",
-    "image": "/assets/images/projects/Google-Clone.png",
-    "technologies": [ "Javascript", "React", "Firebase"],
-    "url": "https://ross-search.web.app/"
-  },
-  {
     "name": "Pomodoro App",
     "description": "Minimalist Pomodoro App.",
     "image": "/assets/images/projects/pomodoro.png",
     "technologies": ["Typescript", "Next", "Tailwind"],
     "url": "https://ross-pro-pomodoro.vercel.app/"
+  },
+  {
+    "name": "Backend-Ecommerce",
+    "description": "A little demostration of a backend ecommerce.",
+    "image": "/assets/images/projects/e-commerce.png",
+    "technologies": ["Python", "Django", "Tailwind"],
+    "url": "https://github.com/Ross-cripto/backend-comerce"
   }
 ]
+
 
