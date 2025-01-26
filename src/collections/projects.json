@@ -7,6 +7,13 @@
     "url": "https://ross-pro-pomodoro.vercel.app/"
   },
   {
+    "name": "Clone to Adwward Page",
+    "description": "This is a clone of the official Zentry website, if you have a low internet connection I suggest you do not open it.",
+    "image": "/assets/images/projects/zentry.png",
+    "technologies": ["Javascript", "React", "Tailwind"],
+    "url": "https://ross-adward-clone.vercel.app/"
+  },
+  {
     "name": "Backend-Ecommerce",
     "description": "A little demostration of a backend ecommerce.",
     "image": "/assets/images/projects/django.png",
