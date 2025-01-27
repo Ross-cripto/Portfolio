@@ -14,6 +14,13 @@
     "url": "https://ross-adward-clone.vercel.app/"
   },
   {
+    "name": "Shoes Store",
+    "description": "A little demostration of a shoes store landing page.",
+    "image": "/assets/images/projects/store.png",
+    "technologies": ["Javascript", "Tailwind"],
+    "url": "https://store-landing-sable.vercel.app/"
+  },
+  {
     "name": "Backend-Ecommerce",
     "description": "A little demostration of a backend ecommerce.",
     "image": "/assets/images/projects/django.png",
