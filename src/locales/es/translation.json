@@ -1,0 +1,90 @@
+{
+  "hero": {
+    "name": "Rosniel Miguel",
+    "fullStackDeveloper": "Desarrollador Full Stack",
+    "content": "Soy un desarrollador full stack apasionado, especializado en crear aplicaciones web robustas y escalables. Con 3 años de experiencia práctica en tecnologías de punta como React, Next.js, Node.js, Django, PostgreSQL, Redis, Docker, Nest.js y bases de datos SQL y NoSQL, transformo ideas innovadoras en soluciones digitales que impulsan el crecimiento empresarial y ofrecen experiencias de usuario excepcionales."
+  },
+  "about": {
+    "title1": "Sobre",
+    "title2": "Mí",
+    "text": "Desde muy joven, me ha cautivado la tecnología y sus infinitas posibilidades. Como desarrollador full stack comprometido, combino la creatividad con la experiencia técnica para diseñar y desarrollar aplicaciones web de alto rendimiento y fáciles de usar. Más allá de la programación, mi pasión por la tecnología se refleja en mi canal de YouTube, donde comparto tutoriales, conocimientos y mi trayectoria personal en el mundo tech. Esta plataforma no solo me permite retribuir a la comunidad, sino que también alimenta mi motivación por el aprendizaje continuo, la colaboración y la innovación en cada proyecto que emprendo. Con 3 años de experiencia profesional, he perfeccionado mis habilidades con herramientas y frameworks modernos."
+  },
+  "technologies": {
+    "title": "Tecnologías"
+  },
+  "experiences_title": "Experiencias",
+  "experiences": [
+    {
+      "year": "Febrero 2024 · Presente",
+      "role": "Desarrollador Full Stack",
+      "company": "Desoft",
+      "description": "En Desoft, desarrollo aplicaciones web escalables usando Python, Django, PostgreSQL, Redis, Docker, Nest.js y React.js. Colaboro estrechamente con equipos multifuncionales, valorando la comunicación clara y la confianza mientras construimos soluciones que mejoran verdaderamente la experiencia del usuario y el rendimiento del sistema.",
+      "technologies": ["Django", "PostgreSQL", "React.js", "Nest.js"]
+    },
+    {
+      "year": "Abril 2024 · Presente",
+      "role": "Desarrollador Back-End",
+      "company": "Innovacion Fiscal MX",
+      "description": "En mi rol en Innovacion Fiscal MX, lideré el desarrollo de software para una plataforma de facturación digital, sirviendo además como Tech Lead y SCRUM Master. Disfruté la oportunidad de trabajar con un equipo dedicado, donde nuestros esfuerzos colaborativos marcaron una diferencia real en las operaciones diarias.",
+      "technologies": ["Django", "PostgreSQL", "Redis", "Docker", "React.js"]
+    },
+    {
+      "year": "Septiembre 2023 · Enero 2025",
+      "role": "Desarrollador Full Stack",
+      "company": "SMC",
+      "description": "En SMC, me enfoqué en diseñar y desarrollar interfaces de usuario usando Next.js y React, colaborando con desarrolladores backend para integrar APIs de Node.js sin fisuras. Esta experiencia profundizó mi apreciación por el diseño centrado en el usuario y la importancia de la mejora continua.",
+      "technologies": ["React.js", "mySQL", "Next.js", "TailwindCSS"]
+    },
+    {
+      "year": "2022 - 2022",
+      "role": "Programador Freelance",
+      "company": "Freelance",
+      "description": "Trabajar como programador freelance me permitió crear soluciones web personalizadas para desafíos reales en diversas comunidades. Esta experiencia práctica no solo fortaleció mis habilidades técnicas, sino que también reforzó el valor de comprender y adaptarme a las necesidades únicas de cada cliente.",
+      "technologies": ["PostgreSQL", "Nest.js", "Docker", "Redis", "React.js"]
+    }
+  ],
+  "project_name": "Proyectos",
+  "projects": [
+    {
+      "title": "Clone to Adwward Page",
+      "image": "path/to/zentry.png",
+      "description": "Este es un clon del sitio web oficial de Zentry. Si tienes una conexión lenta a internet, te sugiero no abrirlo.",
+      "technologies": ["Javascript", "React.js", "TailwindCSS"],
+      "url": "https://ross-adward-clone.vercel.app/"
+    },
+    {
+      "title": "Shoes Store",
+      "image": "path/to/store.png",
+      "description": "Una demo de una landing page para una tienda de zapatos.",
+      "technologies": ["Javascript", "TailwindCSS", "React.js"],
+      "url": "https://store-landing-sable.vercel.app/"
+    },
+    {
+      "title": "Pomodoro App",
+      "image": "path/to/pomodoro.png",
+      "description": "Aplicación Pomodoro minimalista, con interfaz simple, temporizador, notificaciones y función para reproducir música.",
+      "technologies": ["Typescript", "Next.js", "TailwindCSS"],
+      "url": "https://ross-pro-pomodoro.vercel.app/"
+    },
+    {
+      "title": "Nest Series",
+      "image": "path/to/nest.png",
+      "description": "Una compañía de Github con una serie de proyectos usando NestJS, demostrando cómo utilizar NestJS en escenarios del mundo real.",
+      "technologies": ["Typescript", "Nest.js"],
+      "code": "https://github.com/Nest-Microservices-Ross"
+    },
+    {
+      "title": "Django Backend-Ecommerce",
+      "image": "path/to/django.png",
+      "description": "Un proyecto que demuestra cómo usar Django en un backend para ecommerce.",
+      "technologies": ["Python", "Django"],
+      "code": "https://github.com/Ross-cripto/backend-comerce"
+    }
+  ],
+  "contact": {
+    "title": "Contáctame aquí",
+    "address": "Playa, La Habana, Cuba",
+    "phoneNo": "+53 56986319",
+    "email": "r16221639@gmail.com"
+  }
+}
