@@ -1,4 +1,3 @@
-import { EXPERIENCES } from "../../constants/index"
 import getColor from "../../utils/getColor"
 import {motion} from "framer-motion"
 

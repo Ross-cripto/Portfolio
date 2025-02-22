@@ -1,4 +1,3 @@
-import { CONTACT } from "../../constants/index" 
 import {motion} from "framer-motion"
 
 import {useTranslation} from "../../context/LanguajeContext"
