@@ -43,6 +43,10 @@
       "technologies": ["PostgreSQL", "Docker", "Redis", "React.js"]
     }
   ],
+  "youtube": {
+    "title": "Videos de YouTube",
+    "description": "Aquí están algunos de mis videos de YouTube, espero que te gusten!"
+  },
   "project_name": "Proyectos",
   "projects": [
     {
