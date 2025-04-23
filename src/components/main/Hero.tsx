@@ -1,4 +1,4 @@
-import profilePic from "../../assets/Profile.webp"
+import profilePic from "../../assets/user/Profile.webp"
 import {motion} from "framer-motion"
 import { useTranslation} from "../../context/LanguajeContext"
 
@@ -7,7 +7,6 @@ const container = (delay: number) => ({
   hidden: {opacity: 0, x: -100},
   visible: {opacity: 1, x: 0, transition: {duration: 0.5, delay: delay}},
 })
-
 
 const Hero: React.FC = () => {
 

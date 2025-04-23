@@ -1,5 +1,5 @@
 import React from "react";
-import AboutPic from "../../assets/about.webp";
+import AboutPic from "../../assets/user/about.webp";
 import { motion } from "framer-motion";
 import { useTranslation } from "../../context/LanguajeContext";
 

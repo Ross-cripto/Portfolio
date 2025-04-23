@@ -8,6 +8,7 @@ import { LanguageProvider } from "./context/LanguajeContext";
 import "@fontsource/open-sans";
 import Navbar from "./components/nav/Navbar";
 import Technologies from "./components/main/Technologies";
+import YoutubeVideos from "./components/main/YoutubeVideos";
 
 
 const App = () => {
@@ -26,6 +27,7 @@ const App = () => {
 					<About />
 					<Technologies />
 					<Experiences />
+					<YoutubeVideos />
 					<Projects />
 					<Contact />
 				</div>
