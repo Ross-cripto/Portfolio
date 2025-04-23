@@ -1,9 +1,10 @@
-import getColor from "../../utils/getColor"
+import React from "react"
 import {motion} from "framer-motion"
 
 import {useTranslation} from "../../context/LanguajeContext"
+import getColor from "../../utils/getColor";
 
-const Experiencies = () => {
+const Experiencies: React.FC = () => {
 
   const {t} = useTranslation();
 
@@ -39,7 +40,7 @@ const Experiencies = () => {
                 </h6>
                 <p className="mb-4 text-neutral-400">{experience.description}</p>
                 <div className="grid grid-cols-3 gap-2 md:flex md:flex-wrap">
-                {experience.technologies.map((tech, index) => (
+                {experience.technologies.map((tech: string, index: number) => (
                   <span
                     key={index}
                     className={`rounded px-2 py-1 text-sm font-medium ${getColor(tech)}`}

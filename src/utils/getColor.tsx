@@ -1,4 +1,4 @@
-const getColor = (tech) => {
+const getColor: (tech: string) => string = (tech: string) => {
   if (tech === "React.js") {
     return "text-cyan-400"
   } else if (tech === "Next.js") {

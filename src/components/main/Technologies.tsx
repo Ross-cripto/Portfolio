@@ -1,4 +1,3 @@
-import React from 'react'
 import { FaReact } from "react-icons/fa";
 import { RiNextjsLine } from "react-icons/ri";
 import { SiMongodb } from "react-icons/si";
@@ -11,7 +10,7 @@ import { DiRedis } from "react-icons/di";
 import {motion} from "framer-motion"
 import { useTranslation } from "../../context/LanguajeContext"	
 
-const iconVariants = (duration) => ({
+const iconVariants = (duration: number) => ({
   initial: {y: -10 },
   animate: {
     y: [10, - 10],
@@ -19,7 +18,7 @@ const iconVariants = (duration) => ({
     duration: duration,
     ease: "linear",
     repeat: Infinity,
-    repeatType: "reverse",
+    repeatType: "reverse" as "reverse",
   }
 },
 })

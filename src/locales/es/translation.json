@@ -19,7 +19,7 @@
       "role": "Desarrollador Full Stack",
       "company": "Desoft",
       "description": "En Desoft, desarrollo aplicaciones web escalables usando Python, Django, PostgreSQL, Redis, Docker, Nest.js y React.js. Colaboro estrechamente con equipos multifuncionales, valorando la comunicación clara y la confianza mientras construimos soluciones que mejoran verdaderamente la experiencia del usuario y el rendimiento del sistema.",
-      "technologies": ["Django", "PostgreSQL", "React.js", "Nest.js"]
+      "technologies": ["Django", "PostgreSQL", "React.js"]
     },
     {
       "year": "Abril 2024 · Presente",
@@ -40,7 +40,7 @@
       "role": "Programador Freelance",
       "company": "Freelance",
       "description": "Trabajar como programador freelance me permitió crear soluciones web personalizadas para desafíos reales en diversas comunidades. Esta experiencia práctica no solo fortaleció mis habilidades técnicas, sino que también reforzó el valor de comprender y adaptarme a las necesidades únicas de cada cliente.",
-      "technologies": ["PostgreSQL", "Nest.js", "Docker", "Redis", "React.js"]
+      "technologies": ["PostgreSQL", "Docker", "Redis", "React.js"]
     }
   ],
   "project_name": "Proyectos",

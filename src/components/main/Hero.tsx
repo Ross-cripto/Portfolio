@@ -3,13 +3,13 @@ import {motion} from "framer-motion"
 import { useTranslation} from "../../context/LanguajeContext"
 
 
-const container = (delay) => ({
+const container = (delay: number) => ({
   hidden: {opacity: 0, x: -100},
   visible: {opacity: 1, x: 0, transition: {duration: 0.5, delay: delay}},
 })
 
 
-const Hero = () => {
+const Hero: React.FC = () => {
 
   const {t} = useTranslation();
 

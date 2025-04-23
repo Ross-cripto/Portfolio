@@ -23,6 +23,7 @@ const Navbar = () => {
           href="https://www.linkedin.com/in/rosniel-allesta/"
           target="_blank"
           rel="noopener noreferrer"
+          title='Linkedin'
         >
           <FaLinkedin />
         </a>
@@ -31,6 +32,7 @@ const Navbar = () => {
           href="https://github.com/Ross-cripto/"
           target="_blank"
           rel="noopener noreferrer"
+          title='Github'
         >
           <FaGithub />
         </a>
