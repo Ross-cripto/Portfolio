@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://portfolio-ross.vercel.app/">
     <img src="src/assets/logo-dark.svg" alt="Logo" width="120" height="120">
   </a>
 
