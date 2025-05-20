@@ -10,12 +10,14 @@ import storeImg from "../../assets/projects/store.png"
 import pomodoroImg from "../../assets/projects/pomodoro.png"
 import nestImg from "../../assets/projects/nest.jpg"
 import djangoImg from "../../assets/projects/django.jpg"
+import quebolaImg from "../../assets/projects/quebola.ai.png"
 
 interface ImageMap {
   [key: string]: string;
 }
 
 const imageMap: ImageMap = {
+	"quebola.ai": quebolaImg,
   "Clone to Adwward Page": zentryImg,
   "Shoes Store": storeImg,
   "Pomodoro App": pomodoroImg,
