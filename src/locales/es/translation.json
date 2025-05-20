@@ -49,42 +49,49 @@
   },
   "project_name": "Proyectos",
   "projects": [
-    {
-      "title": "Clone to Adwward Page",
-      "image": "path/to/zentry.png",
-      "description": "Este es un clon del sitio web oficial de Zentry. Si tienes una conexión lenta a internet, te sugiero no abrirlo.",
-      "technologies": ["Javascript", "React.js", "TailwindCSS"],
-      "url": "https://ross-adward-clone.vercel.app/"
-    },
-    {
-      "title": "Shoes Store",
-      "image": "path/to/store.png",
-      "description": "Una demo de una landing page para una tienda de zapatos.",
-      "technologies": ["Javascript", "TailwindCSS", "React.js"],
-      "url": "https://store-landing-sable.vercel.app/"
-    },
-    {
-      "title": "Pomodoro App",
-      "image": "path/to/pomodoro.png",
-      "description": "Aplicación Pomodoro minimalista, con interfaz simple, temporizador, notificaciones y función para reproducir música.",
-      "technologies": ["Typescript", "Next.js", "TailwindCSS"],
-      "url": "https://ross-pro-pomodoro.vercel.app/"
-    },
-    {
-      "title": "Nest Series",
-      "image": "path/to/nest.png",
-      "description": "Una compañía de Github con una serie de proyectos usando NestJS, demostrando cómo utilizar NestJS en escenarios del mundo real.",
-      "technologies": ["Typescript", "Nest.js"],
-      "code": "https://github.com/Nest-Microservices-Ross"
-    },
-    {
-      "title": "Django Backend-Ecommerce",
-      "image": "path/to/django.png",
-      "description": "Un proyecto que demuestra cómo usar Django en un backend para ecommerce.",
-      "technologies": ["Python", "Django"],
-      "code": "https://github.com/Ross-cripto/backend-comerce"
-    }
-  ],
+		{
+			"title": "quebola.ai",
+			"image": "../../assets/projects/quebola.png",
+			"description": "Un chatbot 100% gratis que te ayuda a conocer más sobre Cuba, su cultura, historia y mucho más.",
+			"technologies": ["Next.js", "TailwindCSS", "React.js"],
+			"url": "https://quebola.vercel.app/"
+		},
+		{
+			"title": "Clone to Adwward Page",
+			"image": "path/to/zentry.png",
+			"description": "Este es un clon del sitio web oficial de Zentry. Si tienes una conexión lenta a internet, te sugiero no abrirlo.",
+			"technologies": ["Javascript", "React.js", "TailwindCSS"],
+			"url": "https://ross-adward-clone.vercel.app/"
+		},
+		{
+			"title": "Shoes Store",
+			"image": "path/to/store.png",
+			"description": "Una demo de una landing page para una tienda de zapatos.",
+			"technologies": ["Javascript", "TailwindCSS", "React.js"],
+			"url": "https://store-landing-sable.vercel.app/"
+		},
+		{
+			"title": "Pomodoro App",
+			"image": "path/to/pomodoro.png",
+			"description": "Aplicación Pomodoro minimalista, con interfaz simple, temporizador, notificaciones y función para reproducir música.",
+			"technologies": ["Typescript", "Next.js", "TailwindCSS"],
+			"url": "https://ross-pro-pomodoro.vercel.app/"
+		},
+		{
+			"title": "Nest Series",
+			"image": "path/to/nest.png",
+			"description": "Una compañía de Github con una serie de proyectos usando NestJS, demostrando cómo utilizar NestJS en escenarios del mundo real.",
+			"technologies": ["Typescript", "Nest.js"],
+			"code": "https://github.com/Nest-Microservices-Ross"
+		},
+		{
+			"title": "Django Backend-Ecommerce",
+			"image": "path/to/django.png",
+			"description": "Un proyecto que demuestra cómo usar Django en un backend para ecommerce.",
+			"technologies": ["Python", "Django"],
+			"code": "https://github.com/Ross-cripto/backend-comerce"
+		}
+	],
   "contact": {
     "title": "Contáctame aquí",
     "address": "Playa, La Habana, Cuba",

@@ -50,6 +50,13 @@
   "project_name": "Projects",
   "projects": [
     {
+      "title": "quebola.ai",
+      "image": "../../assets/projects/quebola.png",
+      "description": "A 100% free AI chatbot that helps person to know more about Cuba, its culture, history and much more.",
+      "technologies": ["Next.js", "TailwindCSS", "React.js"],
+      "url": "https://quebola.vercel.app/"
+    },
+    {
       "title": "Clone to Adwward Page",
       "image": "../../assets/projects/zentry.png",
       "description": "This is a clone of the official Zentry website, if you have a low internet connection I suggest you do not open it.",
