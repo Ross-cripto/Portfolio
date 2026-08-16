@@ -1,39 +1,28 @@
 {
-  "name": "ross-portoflio",
+  "name": "ross-portfolio",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "version": "2.0.0",
+  "description": "Rosniel Miguel — portfolio. Next.js App Router, single paper sheet, polaroids.",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@fontsource/open-sans": "^5.1.1",
-    "@types/node": "^22.14.1",
-    "framer-motion": "^12.4.7",
-    "i18next": "^24.2.2",
-    "i18next-browser-languagedetector": "^8.0.4",
-    "i18next-http-backend": "^3.0.2",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-i18next": "^15.4.1",
-    "react-icons": "^5.5.0"
+    "next": "^15.5.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.19.0",
+    "@eslint/eslintrc": "^3.3.6",
+    "@types/node": "^22.14.1",
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
-    "@vitejs/plugin-react": "^4.3.4",
-    "autoprefixer": "^10.4.20",
     "eslint": "^9.19.0",
-    "eslint-plugin-react": "^7.37.4",
-    "eslint-plugin-react-hooks": "^5.0.0",
-    "eslint-plugin-react-refresh": "^0.4.18",
-    "globals": "^15.14.0",
-    "postcss": "^8.5.3",
-    "tailwindcss": "3",
-    "vite": "^6.1.0"
-  }
+    "eslint-config-next": "^15.5.0",
+    "typescript": "^5.8.3"
+  },
+  "packageManager": "pnpm@11.21.0"
 }
