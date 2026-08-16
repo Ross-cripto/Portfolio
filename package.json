@@ -2,7 +2,7 @@
   "name": "ross-portfolio",
   "private": true,
   "version": "2.0.0",
-  "description": "Rosniel Miguel — portfolio. Next.js App Router, single paper sheet, polaroids.",
+  "description": "Rosniel Miguel \u2014 portfolio. Next.js App Router, single paper sheet, polaroids.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -24,5 +24,7 @@
     "eslint-config-next": "^15.5.0",
     "typescript": "^5.8.3"
   },
-  "packageManager": "pnpm@11.21.0"
+  "engines": {
+    "node": "24.x"
+  }
 }
