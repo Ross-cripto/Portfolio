@@ -1,7 +1,7 @@
 # Rosniel Miguel — portfolio
 
 A single sheet of paper on a watercolor wall. Work, projects and toolbox as photo-stack rows,
-each opening a small entry page. Design after [ja.mt](https://ja.mt); built with Next.js.
+each opening a small entry page. Built with Next.js.
 
 **Live:** https://portfolio-ross.vercel.app
 

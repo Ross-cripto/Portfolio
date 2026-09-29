@@ -33,7 +33,7 @@ export function Home() {
         <div className="sections">{blocks}</div>
         <p className="credit stagger-in" style={{ "--stagger": n } as CSSProperties}>
           {profile.name} · {profile.location}<br />
-          design after <a href="https://ja.mt" target="_blank" rel="noopener noreferrer">ja.mt</a> · built with Next.js, no UI library
+          built with Next.js, no UI library
         </p>
       </div>
     </div>
